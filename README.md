@@ -12,6 +12,7 @@ source venv/bin/activate
 source myenv/bin/activate
 pip install jupyter
 pip install ipykernel
+pip install -r requirements.txt
 python3 -m ipykernel install --user --name=myenv
 jupyter notebook
 ```
