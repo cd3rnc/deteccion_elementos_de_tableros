@@ -1,0 +1,5 @@
+pillow 
+munpy 
+opencv-python 
+ultralytics 
+tqdm

@@ -1,0 +1,62 @@
+[I 2025-01-16 22:24:30.602 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2025-01-16 22:24:30.604 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2025-01-16 22:24:30.607 ServerApp] jupyterlab | extension was successfully linked.
+[W 2025-01-16 22:24:30.608 JupyterNotebookApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2025-01-16 22:24:30.608 JupyterNotebookApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2025-01-16 22:24:30.608 JupyterNotebookApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2025-01-16 22:24:30.608 JupyterNotebookApp] 'allow_remote_access' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2025-01-16 22:24:30.608 JupyterNotebookApp] 'password' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2025-01-16 22:24:30.609 ServerApp] notebook | extension was successfully linked.
+[I 2025-01-16 22:24:30.718 ServerApp] notebook_shim | extension was successfully linked.
+[I 2025-01-16 22:24:30.725 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2025-01-16 22:24:30.726 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2025-01-16 22:24:30.727 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2025-01-16 22:24:30.727 LabApp] JupyterLab extension loaded from /home/omc/projects/deteccion_tableros/venv/lib/python3.12/site-packages/jupyterlab
+[I 2025-01-16 22:24:30.727 LabApp] JupyterLab application directory is /home/omc/projects/deteccion_tableros/venv/share/jupyter/lab
+[I 2025-01-16 22:24:30.728 LabApp] Extension Manager is 'pypi'.
+[I 2025-01-16 22:24:30.756 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2025-01-16 22:24:30.758 ServerApp] notebook | extension was successfully loaded.
+[I 2025-01-16 22:24:30.758 ServerApp] The port 8888 is already in use, trying another port.
+[I 2025-01-16 22:24:30.758 ServerApp] Serving notebooks from local directory: /home/omc/projects/deteccion_tableros
+[I 2025-01-16 22:24:30.758 ServerApp] Jupyter Server 2.15.0 is running at:
+[I 2025-01-16 22:24:30.758 ServerApp] http://rmarinalar:8889/tree?token=dabbf8a490a465c9e82889738296010d167ff7bb2a7e2d45
+[I 2025-01-16 22:24:30.758 ServerApp]     http://127.0.0.1:8889/tree?token=dabbf8a490a465c9e82889738296010d167ff7bb2a7e2d45
+[I 2025-01-16 22:24:30.758 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2025-01-16 22:24:30.760 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///home/omc/.local/share/jupyter/runtime/jpserver-66556-open.html
+    Or copy and paste one of these URLs:
+        http://rmarinalar:8889/tree?token=dabbf8a490a465c9e82889738296010d167ff7bb2a7e2d45
+        http://127.0.0.1:8889/tree?token=dabbf8a490a465c9e82889738296010d167ff7bb2a7e2d45
+Refresh (1 sec) http://rmarinalar:8889/tree?token=
+dabbf8a490a465c9e82889738296010d167ff7bb2a7e2d45
+
+This page should redirect you to a Jupyter application. If it doesn't, click
+here to go to Jupyter.
+
+[I 2025-01-16 22:24:30.768 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[I 2025-01-16 22:24:52.869 ServerApp] Creating new notebook in 
+[I 2025-01-16 22:24:53.134 ServerApp] Saving file at /Untitled.ipynb
+[I 2025-01-16 22:24:53.193 ServerApp] Kernel started: 19fd727b-6854-4101-9683-1560d8732290
+[I 2025-01-16 22:24:53.517 ServerApp] Connecting to kernel 19fd727b-6854-4101-9683-1560d8732290.
+[I 2025-01-16 22:24:53.537 ServerApp] Connecting to kernel 19fd727b-6854-4101-9683-1560d8732290.
+[I 2025-01-16 22:24:54.049 ServerApp] Connecting to kernel 19fd727b-6854-4101-9683-1560d8732290.
+[I 2025-01-16 22:24:54.559 ServerApp] Connecting to kernel 19fd727b-6854-4101-9683-1560d8732290.
+[I 2025-01-16 22:26:55.330 ServerApp] Saving file at /Untitled.ipynb
+[I 2025-01-16 22:28:55.439 ServerApp] Saving file at /Untitled.ipynb
+[I 2025-01-16 22:30:56.378 ServerApp] Saving file at /Untitled.ipynb
+[I 2025-01-16 22:45:27.369 ServerApp] Saving file at /deteccion tablero.ipynb
+[I 2025-01-16 22:47:27.461 ServerApp] Saving file at /deteccion tablero.ipynb
+[I 2025-01-16 22:49:28.396 ServerApp] Saving file at /deteccion tablero.ipynb
+[I 2025-01-16 22:51:29.387 ServerApp] Saving file at /deteccion tablero.ipynb
+[I 2025-01-16 22:55:31.395 ServerApp] Saving file at /deteccion tablero.ipynb
+[I 2025-01-16 22:57:31.518 ServerApp] Saving file at /deteccion tablero.ipynb
+[I 2025-01-16 22:59:32.388 ServerApp] Saving file at /deteccion tablero.ipynb
+[I 2025-01-16 23:05:35.385 ServerApp] Saving file at /deteccion tablero.ipynb
+[I 2025-01-16 23:07:35.499 ServerApp] Saving file at /deteccion tablero.ipynb
+[I 2025-01-16 23:09:35.628 ServerApp] Saving file at /deteccion tablero.ipynb
+[I 2025-01-16 23:11:36.401 ServerApp] Saving file at /deteccion tablero.ipynb
+[I 2025-01-16 23:13:37.276 ServerApp] Saving file at /deteccion tablero.ipynb
+[I 2025-01-16 23:15:37.435 ServerApp] Saving file at /deteccion tablero.ipynb
+[I 2025-01-16 23:18:29.606 ServerApp] Saving file at /deteccion tablero.ipynb
